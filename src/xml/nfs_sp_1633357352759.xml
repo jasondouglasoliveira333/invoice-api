@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RetornoConsulta
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.prefeitura.sp.gov.br/nfe">
+	<Cabecalho Versao="1" xmlns="">
+		<Sucesso>true</Sucesso>
+	</Cabecalho>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>92411886</InscricaoPrestador>
+			<NumeroNFe>8792</NumeroNFe>
+			<CodigoVerificacao>SICYQFBL</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T08:57:53</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>54746425000173</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>ESPACO VIDA ASSESSORIA EDUCACIONAL E PEDAGOGICA
+			LTDA</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>ENGENHEIRO CAETANO ALVARES</Logradouro>
+			<NumeroEndereco>530</NumeroEndereco>
+			<ComplementoEndereco>CONJ 03</ComplementoEndereco>
+			<Bairro>LIMAO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>2546000</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>evidaservicos@gmail.com</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>1250</ValorServicos>
+		<CodigoServico>3115</CodigoServico>
+		<AliquotaServicos>0.05</AliquotaServicos>
+		<ValorISS>62.5</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>x</EmailTomador>
+		<Discriminacao>Palestra Christian Dunker
+
+			Valor da nota fiscal 1.250,00
+			IRRF 1,50% 18,75
+			PIS 0,65% 8,13
+			COFINS 3% 37,50
+			CSLL 1% 12,50
+			Valor Liquido 1.173,13
+
+			Banco Ita� 341 / Ag 0368 / C/C 57919-9
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<Assinatura>CPiHYOV3Y2q3QextfHtd8wfwB6kUB8L5D7XET5C4S642lLfgCYmVrfx0m/Ute35z5isoo0NNPvstTxaChZnHg0ofyyO7pATiOC3fcvhfV+yy0GPCkH0nkoW5OHVZtzbCrA8dcaNH9DSQvpWnFspOrOV/KF0njnAqheez150RY1EgZQdaeF/EN5XAe/lg+KXGsIwmSpV3XenKLCQOY7mY8EMeor1wwM/4unViBDPWe61yTF1O+2dJdheS4I175o58z7I58KY4ClkJPEvbVbkPte8gZsjWDzB1MkWz3MZbCwWvDV/zudTR0SoX5NVKeDXfbEQZQus3VTVCpEpJmLPctA==
+		</Assinatura>
+		<ChaveNFe>
+			<InscricaoPrestador>35961678</InscricaoPrestador>
+			<NumeroNFe>17927</NumeroNFe>
+			<CodigoVerificacao>EAX975VP</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T10:36:28</DataEmissaoNFe>
+		<NumeroLote>757096083</NumeroLote>
+		<ChaveRPS>
+			<InscricaoPrestador>35961678</InscricaoPrestador>
+			<SerieRPS>RPS</SerieRPS>
+			<NumeroRPS>18343</NumeroRPS>
+		</ChaveRPS>
+		<TipoRPS>RPS</TipoRPS>
+		<DataEmissaoRPS>2021-09-15</DataEmissaoRPS>
+		<CPFCNPJPrestador>
+			<CNPJ>08571310000178</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>A5 SOLUTIONS SERVICOS E COMERCIO EM
+			TELECOMUNICACOES LTDA.</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>DOUTOR CARDOSO DE MELO</Logradouro>
+			<NumeroEndereco>01460</NumeroEndereco>
+			<Bairro>VILA OLIMPIA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>4548005</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>fiscal@a5solutions.com</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>22720</ValorServicos>
+		<ValorPIS>147.68</ValorPIS>
+		<ValorCOFINS>681.6</ValorCOFINS>
+		<ValorIR>340.8</ValorIR>
+		<ValorCSLL>227.2</ValorCSLL>
+		<CodigoServico>2881</CodigoServico>
+		<AliquotaServicos>0.029</AliquotaServicos>
+		<ValorISS>658.88</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>S010603 - CONSULTORIA PL. Quant.: 1,00000000
+			OP008644 - UOL . CONTRATO DE CONSULTORIA OPERACIONAL NEXIDIA . SERVICOS
+			SUJEITOS A RETENCAO CONFORME A LEI 13137/15 DE 22/06/2015
+			RECURSO: LUANA MARTINS GONGAZA
+			Vencto: 15/10/2021
+			IRRF 1,50% ( 340,80)
+			Impostos via Apuracao (Destaque):
+			PIS 0,65% ( 147,68)
+			COFINS 3,00% ( 681,60)
+			CSLL 1,00% ( 227,20)
+			Valor liquido : 21.322,72
+			Quantidade.: 1,00000000
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<Assinatura>dtcj56Kw3iI7XqGNnmuKd2kumc85mHaFtBJGWvJS0NDfYvjLOiFg7oeu+RhRgk8l36YN9NVBx68CDW9lRwdABZnfQsZ/r5gKN9ZVlv9fYpYcOdR+Wuas8FsG9jRRWJtlrQyC6CtXzy2NpfLLc525W8onJoau4+RZx4HZZHKRNBiZje5My6cXCGF8EWUPIdLf1UoEeh6f39XGx6cTRh3Ia3V9mmrgsI9cvQtlxtfndiEQVLVYrbv6IHNdnxrYCfYBzJwTSEFaXhGfFlHksARbOuGcwc8bGi/ZPIi4E9W8GRi7GDQUPxOnau4cqEQfom+6IezqnhhnXNJM11XCEc4MiQ==
+		</Assinatura>
+		<ChaveNFe>
+			<InscricaoPrestador>26422859</InscricaoPrestador>
+			<NumeroNFe>92578</NumeroNFe>
+			<CodigoVerificacao>AAV19LY8</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T10:50:47</DataEmissaoNFe>
+		<NumeroLote>757101325</NumeroLote>
+		<ChaveRPS>
+			<InscricaoPrestador>26422859</InscricaoPrestador>
+			<SerieRPS>1</SerieRPS>
+			<NumeroRPS>90254</NumeroRPS>
+		</ChaveRPS>
+		<TipoRPS>RPS</TipoRPS>
+		<DataEmissaoRPS>2021-09-15</DataEmissaoRPS>
+		<CPFCNPJPrestador>
+			<CNPJ>02189924000103</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>DELOITTE TOUCHE TOHMATSU CONSULTORES LTDA
+		</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>DR CHUCRI ZAIDAN</Logradouro>
+			<NumeroEndereco>1240</NumeroEndereco>
+			<ComplementoEndereco>CJ 1202             </ComplementoEndereco>
+			<Bairro>VILA SAO FRANCISCO (Z</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>4711130</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>contabfiscal@deloitte.com</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<NumeroGuia>40067602</NumeroGuia>
+		<ValorServicos>46064.14</ValorServicos>
+		<ValorPIS>299.42</ValorPIS>
+		<ValorCOFINS>1381.92</ValorCOFINS>
+		<ValorIR>690.96</ValorIR>
+		<ValorCSLL>460.64</ValorCSLL>
+		<CodigoServico>3115</CodigoServico>
+		<AliquotaServicos>0.05</AliquotaServicos>
+		<ValorISS>2303.2</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>Valor dos Tributos Incidentes (Lei N.o 12.741/2012):
+			6.564,14 Valor Liquido: 43.231,20</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>59984058</InscricaoPrestador>
+			<NumeroNFe>45</NumeroNFe>
+			<CodigoVerificacao>YEUPV8CK</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T12:20:31</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>30714367000138</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>RICARDO PIRES CALAZANS MATOS
+		</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>DOS FRANCISCANOS</Logradouro>
+			<NumeroEndereco>11</NumeroEndereco>
+			<ComplementoEndereco>SALA 02</ComplementoEndereco>
+			<Bairro>VILA DOS REMEDIOS</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>5105030</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>RICARDO.CALAZANS@GMAIL.COM</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>4</OpcaoSimples>
+		<ValorServicos>12000</ValorServicos>
+		<CodigoServico>3158</CodigoServico>
+		<AliquotaServicos>0</AliquotaServicos>
+		<ValorISS>0</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>produ��o de texto para branded content de Star+ (8
+			mat�rias)
+			Total: R$ 12 mil
+			dados banc�rios:
+			Ricardo Pires Calazans Matos
+			Santander: 033
+			ag.4702
+			cc 13.002581-7
+			CNPJ: 30.714.367/0001-38
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>36376060</InscricaoPrestador>
+			<NumeroNFe>6154</NumeroNFe>
+			<CodigoVerificacao>9SPZSEXN</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T12:27:51</DataEmissaoNFe>
+		<NumeroLote>757143535</NumeroLote>
+		<ChaveRPS>
+			<InscricaoPrestador>36376060</InscricaoPrestador>
+			<SerieRPS />
+			<NumeroRPS>5275</NumeroRPS>
+		</ChaveRPS>
+		<TipoRPS>RPS</TipoRPS>
+		<DataEmissaoRPS>2021-09-15</DataEmissaoRPS>
+		<CPFCNPJPrestador>
+			<CNPJ>08846059000107</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>SCHNEIDER PUGLIESE SZTOKFISZ FIGUEIREDO E
+			CARVALHO SOCIEDADE</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>CINCINATO BRAGA</Logradouro>
+			<NumeroEndereco>00340</NumeroEndereco>
+			<Bairro>BELA VISTA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1333010</CEP>
+		</EnderecoPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>1623.3</ValorServicos>
+		<ValorPIS>10.55</ValorPIS>
+		<ValorCOFINS>48.7</ValorCOFINS>
+		<ValorIR>24.35</ValorIR>
+		<ValorCSLL>16.23</ValorCSLL>
+		<CodigoServico>3379</CodigoServico>
+		<AliquotaServicos>0</AliquotaServicos>
+		<ValorISS>0</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>HONORARIOS ADVOCATICIOS
+			IRRF 1,50 POR CENTO = R$ 24,35
+			PIS 0,65 POR CENTO = R$ 10,55
+			COFINS 3,00 POR CENTO = R$ 48,70
+			CSLL 1,00 POR CENTO = R$ 16,23
+		</Discriminacao>
+		<ValorCargaTributaria>284.4</ValorCargaTributaria>
+		<PercentualCargaTributaria>0.1752</PercentualCargaTributaria>
+		<FonteCargaTributaria>IBPT</FonteCargaTributaria>
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>57433593</InscricaoPrestador>
+			<NumeroNFe>11</NumeroNFe>
+			<CodigoVerificacao>KHJX6UKN</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T12:33:30</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>27991644000145</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>CAMILA HONORATO DE BARROS 35386031899
+		</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>RAFAEL DE PROENCA</Logradouro>
+			<NumeroEndereco>00415</NumeroEndereco>
+			<Bairro>VILA NOVA DAS BELEZAS</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>5777140</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>millahonorato@gmail.com</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>800</ValorServicos>
+		<CodigoServico>2496</CodigoServico>
+		<AliquotaServicos>0.05</AliquotaServicos>
+		<ValorISS>40</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>Natureza do servi�os: comunica��o, digita��o de texto,
+			jornalismo / webmaster, infografia, fotografia e arquitetura.
+
+			Servi�os prestados de conte�do para UOL Entretenimento. Textos:
+			Produ��o de conte�do para o site ECOA, sobre empreendedorismo
+			ind�gena das empresas Ewa Poranga e Tucum Brasil.
+
+			Centro de custo: Ecoa (10004).
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<Assinatura>Seog7HNPK5HFXFRrgol4Dua+/gP467ssafty6ZYzqe5+HgJET9zdieZxlAy+PBY4RnjGbWbdsCl3J2rmGVt/sGsY1vEJHhEbr9eny9OVLhEF5kuO/t81b4GJH2t0E7unH+TPdsvAQYFQDhojsDhz2nk1rm4VaL2j+T9vmnQS5y1B+Ol+ndxQbD4ySvAW4DII7dBAAlYF8iQqFejQA76QOu/QqZr7qkW8GaEsBebh5sJu0SeElFVqSu+hcbrO/8PN65sR2aeAMWZ7KnzynE6wEtMtbaqg/Uu1KlXfepH33NJrgyuMoozsoNrzbA844fzPX/0eqadpeUX3bzZhvzXkfg==
+		</Assinatura>
+		<ChaveNFe>
+			<InscricaoPrestador>34842560</InscricaoPrestador>
+			<NumeroNFe>4961</NumeroNFe>
+			<CodigoVerificacao>BVFMXWPX</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T12:42:21</DataEmissaoNFe>
+		<ChaveRPS>
+			<InscricaoPrestador>34842560</InscricaoPrestador>
+			<SerieRPS>NFSE</SerieRPS>
+			<NumeroRPS>119</NumeroRPS>
+		</ChaveRPS>
+		<TipoRPS>RPS</TipoRPS>
+		<DataEmissaoRPS>2021-09-15</DataEmissaoRPS>
+		<CPFCNPJPrestador>
+			<CNPJ>05738209000170</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>ELAV PROCESSAMENTO DE DADOS LTDA
+		</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIG FARIA LIMA</Logradouro>
+			<NumeroEndereco>1656</NumeroEndereco>
+			<ComplementoEndereco>CONJ 4 D             </ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451918</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>nfe@elav.com.br</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>4</OpcaoSimples>
+		<ValorServicos>7843.5</ValorServicos>
+		<CodigoServico>2684</CodigoServico>
+		<AliquotaServicos>0</AliquotaServicos>
+		<ValorISS>0</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>Processamento, armazenamento ou Hospedagem de dados
+
+			Criacao e desenvolvimento Quiz Yakult
+
+			Vencimento: 20/10/2021
+
+			***********DADOS PARA DEPOSITO***********
+			Banco: Itau
+			Agencia: 1685 C/C: 09677-6
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>36376060</InscricaoPrestador>
+			<NumeroNFe>6156</NumeroNFe>
+			<CodigoVerificacao>NX5TJSH9</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T13:09:23</DataEmissaoNFe>
+		<NumeroLote>757162174</NumeroLote>
+		<ChaveRPS>
+			<InscricaoPrestador>36376060</InscricaoPrestador>
+			<SerieRPS />
+			<NumeroRPS>5277</NumeroRPS>
+		</ChaveRPS>
+		<TipoRPS>RPS</TipoRPS>
+		<DataEmissaoRPS>2021-09-15</DataEmissaoRPS>
+		<CPFCNPJPrestador>
+			<CNPJ>08846059000107</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>SCHNEIDER PUGLIESE SZTOKFISZ FIGUEIREDO E
+			CARVALHO SOCIEDADE</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>CINCINATO BRAGA</Logradouro>
+			<NumeroEndereco>00340</NumeroEndereco>
+			<Bairro>BELA VISTA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1333010</CEP>
+		</EnderecoPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>4668.22</ValorServicos>
+		<ValorPIS>30.34</ValorPIS>
+		<ValorCOFINS>140.05</ValorCOFINS>
+		<ValorIR>70.02</ValorIR>
+		<ValorCSLL>46.68</ValorCSLL>
+		<CodigoServico>3379</CodigoServico>
+		<AliquotaServicos>0</AliquotaServicos>
+		<ValorISS>0</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>HONORARIOS ADVOCATICIOS
+			IRRF 1,50 POR CENTO = R$ 70,02
+			PIS 0,65 POR CENTO = R$ 30,34
+			COFINS 3,00 POR CENTO = R$ 140,05
+			CSLL 1,00 POR CENTO = R$ 46,68
+		</Discriminacao>
+		<ValorCargaTributaria>817.87</ValorCargaTributaria>
+		<PercentualCargaTributaria>0.1752</PercentualCargaTributaria>
+		<FonteCargaTributaria>IBPT</FonteCargaTributaria>
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>28761650</InscricaoPrestador>
+			<NumeroNFe>424</NumeroNFe>
+			<CodigoVerificacao>VSFDG38E</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T15:35:25</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>03653856000154</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>EDITORA RICKDAN LTDA</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>HELENA</Logradouro>
+			<NumeroEndereco>00260</NumeroEndereco>
+			<Bairro>VILA OLIMPIA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>4552050</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>financeiro@rickdan.com.br</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>1136</ValorServicos>
+		<CodigoServico>2496</CodigoServico>
+		<AliquotaServicos>0.05</AliquotaServicos>
+		<ValorISS>56.8</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>REPASSE ASSINATURAS SEXY CLUBE AGO/21
+
+			BANCO BRADESCO S/A
+			AG 0055 C/C 776.872-9
+			PIX . 03.653.856/0001-54 CNPJ
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>33373035</InscricaoPrestador>
+			<NumeroNFe>848</NumeroNFe>
+			<CodigoVerificacao>XC6G9945</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T16:04:00</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>06107018000173</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>BYUNG S. HONG - SOCIEDADE DE ADVOGADOS
+		</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>FIDENCIO RAMOS</Logradouro>
+			<NumeroEndereco>00195</NumeroEndereco>
+			<Bairro>VILA OLIMPIA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>4551010</CEP>
+		</EnderecoPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>4</OpcaoSimples>
+		<ValorServicos>3833.33</ValorServicos>
+		<CodigoServico>3220</CodigoServico>
+		<AliquotaServicos>0</AliquotaServicos>
+		<ValorISS>0</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>PRESTA��O DE SERVI�OS JUR�DICOS</Discriminacao>
+		<PercentualCargaTributaria>0.1752</PercentualCargaTributaria>
+		<FonteCargaTributaria>IBPT</FonteCargaTributaria>
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>35601370</InscricaoPrestador>
+			<NumeroNFe>1311</NumeroNFe>
+			<CodigoVerificacao>WJ4BXSDS</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T16:46:34</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>08243641000189</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>INFOMOTOR COMUNICACAO INTEGRADA LTDA EPP
+		</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>MAESTRO CARDIM</Logradouro>
+			<NumeroEndereco>00560</NumeroEndereco>
+			<ComplementoEndereco>CJ 141</ComplementoEndereco>
+			<Bairro>BELA VISTA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1323000</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>arthur@infomoto.com.br</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>1600</ValorServicos>
+		<CodigoServico>2534</CodigoServico>
+		<AliquotaServicos>0.05</AliquotaServicos>
+		<ValorISS>80</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>Presta��o de servi�os jornal�sticos - Coluna
+			Infomoto/UOL Carros
+
+			Reten��es
+			IR (1,5%) = R$ 24,00
+			PIS/CONFINS e CS (4,65%) = R$ 74,40
+			Valor l�quido = R$ 1.501,60
+
+			Dados Banc�rios
+			Banco Santander
+			AG 3282 - C/C 13000638-4
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<Assinatura>X4/OPytLSNbJyij05yggrz+5yxtm1zMol6XrpzTUidxV2nWfsXFoGfLNAfFI5y/Np+LmWAJ/5y+VjlDTlE/O+OFAQvlyzzloxAR7m2vcaAHDDmZ8DRiAdEDocKEpdyz49yfgZZI39YSRXhp/TLzyInO785b1+JwOO7eb3YWET6vY41NvQ04ubpcy7eDZnJYebXAGagFlzZQ5tmv/yC9su+WVUjLa2cK3QxCbbnBjbndbhR6OGGed/yceCJulJMEbvm2oNi9A3sTPyOuQB59C6k5+7VpfvrUa7AzUF9yT1R4V/nVU8UVTEDXji1PM2jYsn3YJnpQWLOXIVSsxNBt34w==
+		</Assinatura>
+		<ChaveNFe>
+			<InscricaoPrestador>37727257</InscricaoPrestador>
+			<NumeroNFe>706057</NumeroNFe>
+			<CodigoVerificacao>EHFNHYCL</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T16:48:00</DataEmissaoNFe>
+		<NumeroLote>757269155</NumeroLote>
+		<ChaveRPS>
+			<InscricaoPrestador>37727257</InscricaoPrestador>
+			<SerieRPS>2</SerieRPS>
+			<NumeroRPS>706057</NumeroRPS>
+		</ChaveRPS>
+		<TipoRPS>RPS</TipoRPS>
+		<DataEmissaoRPS>2021-09-15</DataEmissaoRPS>
+		<CPFCNPJPrestador>
+			<CNPJ>09008151000160</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>MINUTRADE MARKETING LTDA</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>PRES JUSCELINO KUBITSCHEK</Logradouro>
+			<NumeroEndereco>1830</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 11</ComplementoEndereco>
+			<Bairro>VILA NOVA CONCEICAO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>4543900</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>fiscal@minutrade.com</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>1444.32</ValorServicos>
+		<CodigoServico>6394</CodigoServico>
+		<AliquotaServicos>0.05</AliquotaServicos>
+		<ValorISS>72.21</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>* Servicos de Marketing para o ALIADO, com o objetivo
+			de promover e divulgar o ambiente Nuvem de Recompensas, bem como
+			aprimorar a Interatividade e a Oferta de Recompensas do ALIADO.
+		</Discriminacao>
+		<ValorCargaTributaria>205.82</ValorCargaTributaria>
+		<PercentualCargaTributaria>0.1425</PercentualCargaTributaria>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>48954322</InscricaoPrestador>
+			<NumeroNFe>115</NumeroNFe>
+			<CodigoVerificacao>ABDL4C7D</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T17:29:59</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>19499700000109</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>GUILHERME SOARES DIAS 00420915192
+		</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>DAS PERDIZES</Logradouro>
+			<NumeroEndereco>00076</NumeroEndereco>
+			<ComplementoEndereco>APT 41</ComplementoEndereco>
+			<Bairro>BARRA FUNDA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1156030</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>guianegro@gmail.com</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>400</ValorServicos>
+		<CodigoServico>3158</CodigoServico>
+		<AliquotaServicos>0.05</AliquotaServicos>
+		<ValorISS>20</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>Produ��o de mat�rias para noticias/UOL
+			https://noticias.uol.com.br/ultimas-noticias/redacao/2021/09/03/surgida-em-fundos-de-quintal-ciranda-do-nordeste-vira-patrimonio-do-brasil.htm
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>33559538</InscricaoPrestador>
+			<NumeroNFe>1215</NumeroNFe>
+			<CodigoVerificacao>KIUVRZZN</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T17:55:25</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>07126836000186</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>SAMBASTUDIO NOVOS PROJETOS E COMERCIO LTDA
+		</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>CONS BROTERO</Logradouro>
+			<NumeroEndereco>1086</NumeroEndereco>
+			<ComplementoEndereco>CONJ 31 E 32</ComplementoEndereco>
+			<Bairro>SANTA CECILIA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1232908</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>km@sambastudio.com</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>11215.93</ValorServicos>
+		<CodigoServico>6777</CodigoServico>
+		<AliquotaServicos>0.05</AliquotaServicos>
+		<ValorISS>560.79</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>PEDIDO N�: 4500612599
+
+			EVENTO: SERVI�O PRODUCAO ATIVACAO P/ EVENTO UOL MARKETING INSIGHTS SWAGS
+
+			DATA AUTORIZAC�O: 15.09.2021
+
+			DATA VENC: 30.09.2021
+
+			BANCO: BRADESCO (2374) - AG 6523 - CC 1828-7
+
+			PROJETO: 2659 | SSD : 2068
+
+			MUITO OBRIGADO POR ESCOLHER O SAMBASTUDIO
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>33559538</InscricaoPrestador>
+			<NumeroNFe>1216</NumeroNFe>
+			<CodigoVerificacao>IHXXIR8L</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T18:01:22</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>07126836000186</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>SAMBASTUDIO NOVOS PROJETOS E COMERCIO LTDA
+		</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>CONS BROTERO</Logradouro>
+			<NumeroEndereco>1086</NumeroEndereco>
+			<ComplementoEndereco>CONJ 31 E 32</ComplementoEndereco>
+			<Bairro>SANTA CECILIA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1232908</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>km@sambastudio.com</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>0</OpcaoSimples>
+		<ValorServicos>92818.46</ValorServicos>
+		<CodigoServico>6777</CodigoServico>
+		<AliquotaServicos>0.05</AliquotaServicos>
+		<ValorISS>4640.92</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>PEDIDO N� : 4500612599
+
+			EVENTO: SERVI�O PRODUCAO ATIVACAO P/ EVENTO UOL MARKETING INSIGHTS
+
+			DATA AUTORIZA��O: 15.09.2021
+
+			DATA VENC.: 23.09.2021
+
+			BANCO (237) - AG 6523 - CC 1828-7
+
+			PROJETO: 2469 | SSD : 2069
+
+			MUITO OBRIGADO POR ESCOLHER O SAMBASTUDIO
+		</Discriminacao>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>35591919</InscricaoPrestador>
+			<NumeroNFe>459</NumeroNFe>
+			<CodigoVerificacao>IUZ19MJU</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T18:39:25</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>08255024000101</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>ATE O FIM EIRELI</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>TONELERO</Logradouro>
+			<NumeroEndereco>201</NumeroEndereco>
+			<ComplementoEndereco>APT 112</ComplementoEndereco>
+			<Bairro>VILA IPOJUCA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>5056000</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>giu@ateofim.com.br</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>4</OpcaoSimples>
+		<ValorServicos>210000</ValorServicos>
+		<CodigoServico>6807</CodigoServico>
+		<AliquotaServicos>0</AliquotaServicos>
+		<ValorISS>0</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>Servi�os prestados referentes � produ��o do programa
+			Sai da Caixa - 50% para 10 programas da temporada 2.
+			Banco Ita�
+			Ag�ncia 0185
+			C/C 14556-2
+
+			Contato: giu@ateofim.com.br (Giuliano)
+		</Discriminacao>
+		<PercentualCargaTributaria>0.1183</PercentualCargaTributaria>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>35591919</InscricaoPrestador>
+			<NumeroNFe>460</NumeroNFe>
+			<CodigoVerificacao>D65VMA2C</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T18:45:07</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>08255024000101</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>ATE O FIM EIRELI</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>TONELERO</Logradouro>
+			<NumeroEndereco>201</NumeroEndereco>
+			<ComplementoEndereco>APT 112</ComplementoEndereco>
+			<Bairro>VILA IPOJUCA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>5056000</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>giu@ateofim.com.br</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>4</OpcaoSimples>
+		<ValorServicos>174250</ValorServicos>
+		<CodigoServico>6807</CodigoServico>
+		<AliquotaServicos>0</AliquotaServicos>
+		<ValorISS>0</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>Servi�os prestados referentes � produ��o do conte�do
+			"SAI DA CAIXA" - 50% para 6 programas da temporada especial Ver�o /
+			Carnaval.
+			Dados Banc�rios
+			Banco Ita�
+			Ag�ncia 0185
+			C/C 14556-2
+
+			Contato: giu@ateofim.com.br (Giuliano)
+		</Discriminacao>
+		<PercentualCargaTributaria>0.1183</PercentualCargaTributaria>
+		<FonteCargaTributaria />
+	</NFe>
+	<NFe xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>35591919</InscricaoPrestador>
+			<NumeroNFe>461</NumeroNFe>
+			<CodigoVerificacao>EMMRB7B6</CodigoVerificacao>
+		</ChaveNFe>
+		<DataEmissaoNFe>2021-09-15T18:47:09</DataEmissaoNFe>
+		<CPFCNPJPrestador>
+			<CNPJ>08255024000101</CNPJ>
+		</CPFCNPJPrestador>
+		<RazaoSocialPrestador>ATE O FIM EIRELI</RazaoSocialPrestador>
+		<EnderecoPrestador>
+			<TipoLogradouro>R</TipoLogradouro>
+			<Logradouro>TONELERO</Logradouro>
+			<NumeroEndereco>201</NumeroEndereco>
+			<ComplementoEndereco>APT 112</ComplementoEndereco>
+			<Bairro>VILA IPOJUCA</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>5056000</CEP>
+		</EnderecoPrestador>
+		<EmailPrestador>giu@ateofim.com.br</EmailPrestador>
+		<StatusNFe>N</StatusNFe>
+		<TributacaoNFe>T</TributacaoNFe>
+		<OpcaoSimples>4</OpcaoSimples>
+		<ValorServicos>60000</ValorServicos>
+		<CodigoServico>6807</CodigoServico>
+		<AliquotaServicos>0</AliquotaServicos>
+		<ValorISS>0</ValorISS>
+		<ValorCredito>0</ValorCredito>
+		<ISSRetido>false</ISSRetido>
+		<CPFCNPJTomador>
+			<CNPJ>01109184000438</CNPJ>
+		</CPFCNPJTomador>
+		<InscricaoMunicipalTomador>32189060</InscricaoMunicipalTomador>
+		<RazaoSocialTomador>UNIVERSO ONLINE S/A</RazaoSocialTomador>
+		<EnderecoTomador>
+			<TipoLogradouro>AV</TipoLogradouro>
+			<Logradouro>BRIGADEIRO FARIA LIMA</Logradouro>
+			<NumeroEndereco>1384</NumeroEndereco>
+			<ComplementoEndereco>ANDAR 8 AO 11</ComplementoEndereco>
+			<Bairro>JARDIM PAULISTANO</Bairro>
+			<Cidade>3550308</Cidade>
+			<UF>SP</UF>
+			<CEP>1451001</CEP>
+		</EnderecoTomador>
+		<EmailTomador>fiscalrecebimento@uolinc.com</EmailTomador>
+		<Discriminacao>Servi�os prestados referentes � produ��o do conte�do
+			"SAI DA CAIXA" - estimativa para estudo e libera��o de m�sicas da
+			temporada especial Ver�o / Carnaval.
+
+			Dados Banc�rios
+			Banco Ita�
+			Ag�ncia 0185
+			C/C 14556-2
+
+			Contato: giu@ateofim.com.br (Giuliano)
+		</Discriminacao>
+		<PercentualCargaTributaria>0.1183</PercentualCargaTributaria>
+		<FonteCargaTributaria />
+	</NFe>
+</RetornoConsulta>

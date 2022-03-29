@@ -1,0 +1,3 @@
+2021-10-20 16:40:21 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SSLECT[*] * FROM CERTIFICATE"; expected "SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW"; SQL statement:
+sslect * from certificate [42001-200]
